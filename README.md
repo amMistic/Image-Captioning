@@ -35,7 +35,7 @@ This project is an **Image Caption Generator** powered by the **BLIP model** for
 
 1. Clone the frontend repository:
    ```bash
-   git clone https://github.com/yourusername/image-caption-project.git
+   git clone https://github.com/amMistic/image-caption-project.git
    cd image-caption-project/frontend
    ```
 
@@ -49,7 +49,7 @@ This project is an **Image Caption Generator** powered by the **BLIP model** for
 
 1. Clone the backend repository (or the same repo if it's one):
    ```bash
-   git clone https://github.com/yourusername/image-caption-project.git
+   git clone https://github.com/amMistic/image-caption-project.git
    cd image-caption-project/backend
    ```
 
