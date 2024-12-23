@@ -1,5 +1,10 @@
 # Image Caption Generator
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/db241db5-98ed-4156-9c0e-3084cca1327b" alt="Image 1" style="width: 53%;"/>
+  <img src="https://github.com/user-attachments/assets/52ee7b9b-356b-43e6-8162-91bea7d29d8e" alt="Image 2" style="width: 40%;"/>
+</div>
+
 This project is an **Image Caption Generator** powered by the **BLIP model** for image-to-text generation. The **FastAPI backend** processes images and generates captions, while the **User Interface** lets users upload images and view captions seamlessly.
 
 ## Features
